@@ -53,5 +53,5 @@ What are the sales patterns over time, and how do they align with business targe
 
 
 
-✅ Overall Story:
+# Overall Story:
 The project provides a comprehensive business intelligence case study for a growing bakery. By analyzing product performance, retailer contribution, and sales trends, Sweet-Cravings Bakery gains actionable insights to optimize distribution, enhance profitability, and track progress toward long-term growth.
