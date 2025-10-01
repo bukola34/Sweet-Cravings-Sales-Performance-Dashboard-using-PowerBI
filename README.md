@@ -3,7 +3,7 @@ Power BI case study analyzing 16 months of sales data to uncover customer insigh
 
 # Project Description
 
-This project analyzes Sweet-Cravings Bakery’s sales performance using Power BI to uncover insights across revenue, expenses, profit, customer contribution, and product performance. The bakery, which has operated for over two years, collaborates with five major retailers in the U.S. and specializes in delivering high-quality cookies
+The project analyzes Sweet-Cravings Bakery’s sales performance using Power BI to uncover insights across revenue, expenses, profit, customer contribution, and product performance. The bakery, which has operated for over two years, collaborates with five major retailers in the U.S. and specializes in delivering high-quality cookies
 
 
 The dataset covers 16 months (Sept 2019 – Dec 2020) and includes:
