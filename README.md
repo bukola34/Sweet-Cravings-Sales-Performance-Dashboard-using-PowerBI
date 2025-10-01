@@ -1,29 +1,57 @@
 # Sweet-Cravings-Sales-Performance-Dashboard-using-PowerBI
 Power BI case study analyzing 16 months of sales data to uncover customer insights, product performance, and progress toward a $5M profit target.
 
-# Project Insights – Sweet-Cravings Bakery Dashboard
+# Project Description
 
-Strong Profitability: Achieved $1.28M in revenue with $767.9K in profit (≈60% margin), reflecting efficient cost control with expenses of $511.9K.
+This project analyzes Sweet-Cravings Bakery’s sales performance using Power BI to uncover insights across revenue, expenses, profit, customer contribution, and product performance. The bakery, which has operated for over two years, collaborates with five major retailers in the U.S. and specializes in delivering high-quality cookies
 
-Customer Concentration Risk: Wholesome is the leading customer, but reliance on a few major buyers poses risks. Diversification of customer base is critical to resilience.
 
-Single Product Dependency: Sales are driven entirely by Chocolate Chip cookies (255.99K units, 151 orders). Lack of product variety exposes the bakery to demand shifts and limits growth potential.
+The dataset covers 16 months (Sept 2019 – Dec 2020) and includes:
 
-Seasonal Demand Patterns: Profit peaks in October and December (holiday-driven sales) while February and November show dips. Seasonality presents both risk and opportunity for targeted campaigns.
+Orders Table – Transactional sales data.
 
-Growth Benchmark: Current performance is far below the $5M target, indicating the need for expansion strategies across product lines, customers, and markets.
+Customers Table – Retailer information.
 
-# Recommendations
+Cookies Table – Production and selling costs per product
 
-Product Diversification – Introduce new cookie varieties and seasonal flavors to expand revenue streams.
+# Objectives
 
-Customer Base Expansion – Reduce dependency on Wholesome by targeting new retail/wholesale clients and strengthening direct-to-consumer channels.
+Measure total revenue, expenses, and net profit over 16 months.
 
-Leverage Seasonality – Maximize holiday demand with limited-edition products, bundles, and promotions. Use marketing campaigns to boost sales in low-demand months.
+Identify top-performing customers and their contribution to profitability.
 
-Strategic Reinvestment – Allocate profits toward scaling production, improving distribution, and marketing to drive long-term growth.
+Analyze cookie product performance by sales volume and profit contribution.
 
-Cost & Risk Monitoring – Continue controlling expenses while monitoring risks from supplier/customer concentration.
+Track sales trends over time and evaluate seasonality.
 
-# Overall Story:
-Sweet-Cravings Bakery has proven its profitability with one product line, but sustainable growth toward its $5M target requires diversification, expansion, and strategic reinvestment. This dashboard illustrates how data storytelling can surface risks and opportunities in a clear, actionable way.
+Assess progress toward the $5M profit target over 24 months
+
+
+# Tools & Approach
+
+Power BI – Data import, relationship modeling, and dashboard creation.
+
+Data Modeling – Linking fact and dimension tables using primary and foreign keys.
+
+Data Storytelling – Visual narratives to highlight performance gaps and opportunities
+
+CASE STUDY_ Sweet Cravings Bake…
+
+.
+
+# Key Questions Answered
+
+How much revenue, expenses, and profit were generated?
+
+Which cookie product received the highest orders and profit contribution?
+
+Who are the most and least profitable customers?
+
+How many units and orders were fulfilled during the 16 months?
+
+What are the sales patterns over time, and how do they align with business targets
+
+
+
+✅ Overall Story:
+The project provides a comprehensive business intelligence case study for a growing bakery. By analyzing product performance, retailer contribution, and sales trends, Sweet-Cravings Bakery gains actionable insights to optimize distribution, enhance profitability, and track progress toward long-term growth.
